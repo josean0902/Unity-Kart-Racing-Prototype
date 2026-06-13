@@ -1,3 +1,7 @@
+# 🎮 Unity Kart Racing Prototype
+
+![Gameplay Demo](Docs/gameplay-demo.gif)
+
 # 🇬🇧 English Version
 
 ## Unity Kart Racing Prototype
